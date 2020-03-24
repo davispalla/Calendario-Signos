@@ -1,0 +1,9 @@
+C:\Users\0068\Documents\cSharp\Projetos_CSharp\CalendarioSignos\bin\Debug\CalendarioSignos.exe.config
+C:\Users\0068\Documents\cSharp\Projetos_CSharp\CalendarioSignos\bin\Debug\CalendarioSignos.exe
+C:\Users\0068\Documents\cSharp\Projetos_CSharp\CalendarioSignos\bin\Debug\CalendarioSignos.pdb
+C:\Users\0068\Documents\cSharp\Projetos_CSharp\CalendarioSignos\obj\Debug\CalendarioSignos.csprojAssemblyReference.cache
+C:\Users\0068\Documents\cSharp\Projetos_CSharp\CalendarioSignos\obj\Debug\CalendarioSignos.Form1.resources
+C:\Users\0068\Documents\cSharp\Projetos_CSharp\CalendarioSignos\obj\Debug\CalendarioSignos.Properties.Resources.resources
+C:\Users\0068\Documents\cSharp\Projetos_CSharp\CalendarioSignos\obj\Debug\CalendarioSignos.csproj.GenerateResource.cache
+C:\Users\0068\Documents\cSharp\Projetos_CSharp\CalendarioSignos\obj\Debug\CalendarioSignos.exe
+C:\Users\0068\Documents\cSharp\Projetos_CSharp\CalendarioSignos\obj\Debug\CalendarioSignos.pdb
